@@ -1,4 +1,4 @@
-module EngineTemplate
+module CallbackRequester
   module ApplicationHelper
   end
 end

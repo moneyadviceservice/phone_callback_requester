@@ -1,2 +1,2 @@
-EngineTemplate::Engine.routes.draw do
+CallbackRequester::Engine.routes.draw do
 end

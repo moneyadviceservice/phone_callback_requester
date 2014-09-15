@@ -11,8 +11,8 @@ class ApplicationController < ActionController::Base
     { locale: I18n.locale }
   end
 
-  def redirect_to_engine_template
-    redirect_to engine_template_path
+  def redirect_to_callback_requester
+    redirect_to callback_requester_path
   end
 
 end
